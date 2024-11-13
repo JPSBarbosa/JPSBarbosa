@@ -2,7 +2,7 @@
 
 - Tenho 20 anos
 - Atualmente estou cursando Ciência da Computação
-- Experiência básica em C e Python
+- Experiência básica em C, Python e Java
 - Aprendendo GO
 
 ![JoaoPedroSBarbosa Status](https://github-readme-stats.vercel.app/api?username=JoaoPedroSBarbosa&show_icons=true&&theme=github_dark)
